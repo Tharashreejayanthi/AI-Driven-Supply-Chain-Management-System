@@ -21,6 +21,15 @@ It supports RESTful API interaction and is designed for modern logistics and sup
 
 ---
 
+## 📁 Files
+
+- `ai_supply_chain_app.py`: Python script containing code.
+- `sample_supply_chain_data.xlx`: Sample dataset of supply chain with 25 rows.
+- `inventory.png`:image of inventory
+- `inventory_updated.png`:image of  updated inventory
+- `forecast.png`:image of forecast prediction
+-  `iot_data.png`:image of iot sensors condition   
+
 ## ⚙️ How to Run the Project
 
 1. **Open terminal or command prompt**
