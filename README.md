@@ -89,5 +89,13 @@ Example Output:
 * **IoT Data:**
 
   ![IOT Data](iot_data.png)
+  
+## 🔮 Future Enhancements
+
+* **ML Integration:** Replace mock logic with real demand forecasting models (e.g., LSTM, XGBoost).
+* **Database Support:** Use PostgreSQL/MongoDB to persist inventory and transactions.
+* **User Access Control:** Implement role-based authentication (JWT/OAuth2).
+* **Mobile App:** Build a lightweight app for warehouse staff with QR scanning.
+* **Cloud & CI/CD:** Deploy using Docker, GitHub Actions, and cloud services.
 ---
 
